@@ -146,7 +146,7 @@ We would like to express our sincere gratitude to **Dr. V.S. Wadne** for their i
 
 - **Aman Rajjak Sayyad:** Lead Developer, YOLO Model and Object Tracking
 - **Amit Kumbhar:** Front-end Development, Web App Interface
-- **Aman Rajjak Sayyad:** Backend Development, Deployment
+- **Arman Rajjak Sayyad:** Backend Development, Deployment
 - **Dr. V.S Wadne:** Guidance
 
 Special thanks to all team members for their contributions to the project.
