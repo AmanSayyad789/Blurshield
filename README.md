@@ -34,8 +34,8 @@ Follow the steps below to get your Blurshield system up and running.
 
 Installation Steps
 1. **Clone the repository:**
-    git clone `https://github.com/yourusername/blurshield.git`
-    `cd blurshield`
+    git clone `https://github.com/AmanSayyad789/Blurshield.git`
+    `cd Blurshield`
 
 2. **Set up the Flask Backend:**
    - **Create a virtual environment for Python:**
